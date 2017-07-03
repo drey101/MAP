@@ -3,5 +3,8 @@
   "git.enabled": false,
   "tslint.autoFixOnSave": true,
   "tslint.run": "onSave",
-  "css.lint.emptyRules": "ignore"
+  "css.lint.emptyRules": "ignore",
+  
+  
+  
 }
